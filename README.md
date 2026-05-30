@@ -1,8 +1,6 @@
 
 <!-- ─────────────────────────────── TECH STACK ─────────────────────────────── -->
-
 # 🛠️ Tech Stack & Skills
-
 <div align="center">
 
 ## 🧠 Languages
