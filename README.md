@@ -1,10 +1,11 @@
 
 <!-- ─────────────────────────────── TECH STACK ─────────────────────────────── -->
-# 🛠️ Tech Stack & Skills
-<div align="center">
 
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Sudeeksha&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+
+# 🛠️ Tech Stack & Skills
 ## 🧠 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
